@@ -176,3 +176,21 @@
 // }
 
 //* ========== parseInt & parseFloat End Section ==========
+
+
+
+
+
+
+
+
+
+var myName ="Amrit";
+if(myName){
+  console.log("this is truthy Value");
+  
+}
+else{
+  console.log("Its a falsy value");
+  
+}
